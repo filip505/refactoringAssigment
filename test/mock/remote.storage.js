@@ -1,0 +1,1 @@
+exports.write = jest.fn((obj) => (obj))

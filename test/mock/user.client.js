@@ -1,0 +1,1 @@
+exports.get = jest.fn((url) => ({ name: 'test' }))
